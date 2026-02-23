@@ -1,0 +1,11 @@
+# File: Union_of_Two_Sets.py
+
+set1 = {1, 2, 3}
+set2 = {3, 4, 5}
+
+union_set = set1.union(set2)
+
+print("Union:", union_set)
+
+# Output:
+# Union: {1, 2, 3, 4, 5}
