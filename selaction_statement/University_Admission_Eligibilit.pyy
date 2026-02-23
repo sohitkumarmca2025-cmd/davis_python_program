@@ -1,0 +1,9 @@
+# Program Name: University Admission Eligibility
+# This program checks admission eligibility
+
+percentage = float(input("Enter your percentage: "))
+
+if percentage >= 75:
+    print("Eligible for Admission")
+else:
+    print("Not Eligible for Admission")
