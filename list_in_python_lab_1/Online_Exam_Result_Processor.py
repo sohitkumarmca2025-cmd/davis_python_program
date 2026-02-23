@@ -1,4 +1,4 @@
-# Program Name: Online Exam Result Processor (Advanced)
+# Program Name: Online Exam Result Processor 
 
 scores = [25, 34, 40, 55, 30, 80, 20]
 
