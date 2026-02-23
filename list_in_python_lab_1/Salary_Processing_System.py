@@ -1,4 +1,4 @@
-# Program Name: Salary Processing System (Advanced)
+# Program Name: Salary Processing System 
 
 salaries = [20000, 55000, 80000, 15000, 60000]
 
