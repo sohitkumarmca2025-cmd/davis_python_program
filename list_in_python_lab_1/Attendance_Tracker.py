@@ -1,4 +1,4 @@
-# Program Name: Attendance Tracker (Advanced)
+# Program Name: Attendance Tracker 
 
 attendance = [1,0,1,1,0,0,1,1,1,0]
 
