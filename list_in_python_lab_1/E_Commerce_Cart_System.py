@@ -1,4 +1,4 @@
-# Program Name: E-Commerce Cart System (Advanced)
+# Program Name: E-Commerce Cart System 
 
 cart = [2000, 1500, 2000, 800, 1200]
 
